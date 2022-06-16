@@ -1,0 +1,1 @@
+cmd_/home/moatasem/device-driver/Yt_DD/1_hello/mymodule.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/moatasem/device-driver/Yt_DD/1_hello/mymodule.ko /home/moatasem/device-driver/Yt_DD/1_hello/mymodule.o /home/moatasem/device-driver/Yt_DD/1_hello/mymodule.mod.o;  true
